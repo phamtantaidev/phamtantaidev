@@ -16,7 +16,8 @@
 </div>
 
 ###
-<img src="https://phamtantaidev.github.io/phamtantaidev/assets/funny.gif" height="150" align="right" />
+<img src="https://raw.githubusercontent.com/phamtantaidev/phamtantaidev/main/assets/funny.gif" height="150" align="right" />
+
 
 
 
