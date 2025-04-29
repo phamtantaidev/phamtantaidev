@@ -17,7 +17,8 @@
 
 ###
 
-<img align="right" height="150" src="./assets/funny.gif"  />
+<img src="https://raw.githubusercontent.com/phamtantaidev/phamtantaidev/main/assets/funny.gif" height="150" align="right" />
+
 
 ###
 
