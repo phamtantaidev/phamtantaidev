@@ -16,8 +16,8 @@
 </div>
 
 ###
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRpbjFiMnlpYTZyaTFtd2c5ejRmdXdpOGtvbTI2M3BucmxsOHg5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" />
 
-<img src="https://raw.githubusercontent.com/phamtantaidev/phamtantaidev/main/assets/funny.gif" height="150" align="right" />
 
 
 ###
