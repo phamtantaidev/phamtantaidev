@@ -17,8 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/24MaLMS.gif"  />
-![Tài là cool ngầu](https://i.imgflip.com/9sd6kp.gif)
+<img align="right" height="150" src="./assets/funny.gif"  />
 
 ###
 
